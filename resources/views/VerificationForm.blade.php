@@ -36,7 +36,7 @@
 										id="IdentityNumber"
 										maxlength="30"
 										name="IdentityNumber" 
-										value="CN794099" />
+										value="9006250445085" />
 									<span class="text-danger small field-validation-valid"
 										data-valmsg-for="IdentityNumber" data-valmsg-replace="true"></span>
 								</div>
